@@ -1,0 +1,18 @@
+FRIDGE TEMPERATURE
+The reagent fridge temperature is checked twice a day, at 8 am and 4 pm.
+The accepted range is 2 to 8 degrees Celsius.
+If the temperature is outside the range, tell the lab supervisor at once.
+
+QUALITY CONTROL
+Quality control samples are run at the start of every shift.
+Results are recorded in the QC logbook.
+If a QC result is outside the accepted limits, the supervisor decides before patient results are reported.
+
+SAMPLE REJECTION
+A sample with no label is rejected and the ward is asked to send a new one.
+A sample in the wrong tube is rejected.
+The rejection is recorded in the rejection logbook.
+
+LOGBOOK
+The logbook is signed at the end of every shift.
+Corrections are made with a single line through the mistake, with initials and date.
